@@ -1,0 +1,1 @@
+{"version":3,"file":"RepeatPropsType.d.ts","sourceRoot":"","sources":["../../../types/RepeatPropsType.ts"],"names":[],"mappings":"AAEA,KAAK,oBAAoB,GAAG;IAC1B,QAAQ,CAAC,EAAE,KAAK,CAAC,SAAS,CAAC;IAC3B,OAAO,EAAE,OAAO,CAAC;IACjB,MAAM,EAAE,MAAM,CAAC;IACf,yBAAyB;IACzB,eAAe,CAAC,EAAE,QAAQ,GAAG,KAAK,CAAC;CACpC,CAAC;AAEF,eAAe,oBAAoB,CAAC"}

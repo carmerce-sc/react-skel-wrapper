@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "esnext"],
+    "jsx": "react",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "baseUrl": "./",
+    "strict": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "declarationMap": true,
+    "declarationDir": "dist/types",
+    "typeRoots": ["./node_modules/@config/types", "./@config/types"]
+  },
+  "include": ["index.tsx"],
+  "exclude": ["node_modules"]
+}
